@@ -1,6 +1,6 @@
 # simpleSignIn
 A simple login/register interface
-This is a front-end application made using React.
+This is a front-end application made using React and javascript.
 this is my first application. It's was made to be simple as possible. The user is able to perform login or register as a user using a valid email.
 
 ### Status: complete.
