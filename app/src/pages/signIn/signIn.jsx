@@ -41,7 +41,7 @@ const SignIn = props => {
 
     const login = async (data) => {
         try {
-            const res = await axios.post('http://localhost:3000/signIn', {
+            const res = await axios.post('https://simple-signin-back.herokuapp.com/signIn', {
                 email: data.email,
                 password: data.password,
                 role: "USER"

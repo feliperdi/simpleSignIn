@@ -27,7 +27,7 @@ const SignUp = props => {
                     {shouldFocus: true}
                 );
             } else {
-                const res = await axios.post('http://localhost:3000/signUp', {
+                const res = await axios.post('https://simple-signin-back.herokuapp.com/signUp', {
                     email: data.email,
                     password: data.password,
                     role: "USER"
