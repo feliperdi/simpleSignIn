@@ -7,7 +7,7 @@ this is my first application. It's was made to be simple as possible. The user i
 What have I learned from this project ?
 One of the things I learned from this little project was the important of use Styled-components. Keep all my css class in one file is not wise at all. Using a library to deal with the form validation is a good solutio, no need to reinveted the wheel.
 
-### Live version here: <a>https://disturbed-coat.surge.sh/</a>
+### Live version here: [Here](https://disturbed-coat.surge.sh/)
 ### Technologies that I used:
 + nodeJs 16.11
 + react 11.2
